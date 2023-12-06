@@ -1,0 +1,55 @@
+    {
+      'question': 'What is the capital of France?',
+      'options': ['London', 'Berlin', 'Paris', 'Madrid'],
+      'correctAnswerIndex': 2,
+    },
+    {
+      'question': 'Which planet is known as the Red Planet?',
+      'options': ['Earth', 'Mars', 'Venus', 'Jupiter'],
+      'correctAnswerIndex': 1,
+    },
+    {
+      'question': 'What is the largest mammal on Earth?',
+      'options': ['Elephant', 'Blue Whale', 'Giraffe', 'Hippopotamus'],
+      'correctAnswerIndex': 1,
+    },
+    {
+      'question': 'Which gas do plants absorb from the atmosphere?',
+      'options': ['Oxygen', 'Carbon Dioxide', 'Nitrogen', 'Methane'],
+      'correctAnswerIndex': 1,
+    },
+    {
+      'question': 'Which famous scientist developed the theory of relativity?',
+      'options': [
+        'Isaac Newton',
+        'Niels Bohr',
+        'Galileo Galilei',
+        'Albert Einstein'
+      ],
+      'correctAnswerIndex': 3,
+    },
+    {
+      'question': 'What is the chemical symbol for gold?',
+      'options': ['Go', 'Ag', 'Au', 'Gd'],
+      'correctAnswerIndex': 2,
+    },
+    {
+      'question': 'Which country is known as the Land of the Rising Sun?',
+      'options': ['China', 'South Korea', 'Japan', 'Vietnam'],
+      'correctAnswerIndex': 2,
+    },
+    {
+      'question': 'What is the largest organ in the human body?',
+      'options': ['Brain', 'Heart', 'Liver', 'Skin'],
+      'correctAnswerIndex': 3,
+    },
+    {
+      'question': 'What is the capital of Bangladesh?',
+      'options': ['London', 'Dhaka', 'Paris', 'Madrid'],
+      'correctAnswerIndex': 1,
+    },
+    {
+      'question': 'What is the capital of India?',
+      'options': ['London', 'Delhi', 'Paris', 'Madrid'],
+      'correctAnswerIndex': 1,
+    },
